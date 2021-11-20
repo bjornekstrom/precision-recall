@@ -1,6 +1,6 @@
 # Precision och recall
 
-Jupyter Notebooks för beräkning av precision och recall enligt standardiserade IR-mått:
+Jupyter Notebooks för utvärdering av sökresultat enligt standardiserade IR-mått:
 
 * Precision
 * Recall
